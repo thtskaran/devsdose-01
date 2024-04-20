@@ -13,7 +13,7 @@ interface FAQProps {
 
 const FAQList: FAQProps[] = [
   {
-    question: "Is this template free?",
+    question: "Refund Policy",
     answer: "Yes. It is a free ChadcnUI template.",
     value: "item-1",
   },
